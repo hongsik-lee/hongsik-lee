@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=150&section=header&text=Thanks for%20Coming&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=120&section=header&text=Thanks for%20Coming&fontSize=60" />
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhongsik-lee%2Fhongsik-lee&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
@@ -35,8 +35,8 @@
   
 ---
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongsik-lee)](https://github.com/hongsik-lee/github-readme-stats)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongsik-lee&layout=compact)](https://github.comhongsik-leegithub-readme-stats)
+
 
 </div>
 <!--
