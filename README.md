@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=150&section=header&text=Thanks for%20Coming&fontSize=60" />
+
 <!--
 **hongsik-lee/hongsik-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
